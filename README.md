@@ -7,8 +7,15 @@ Repository for the paper "Joint learning of linear transformations and Spatial P
 
 
 # Data preparation
-- MSCOCO
+- MSCOCO:
   wget http://msvocds.blob.core.windows.net/coco2014/train2014.zip
-- WikiArt
-  download from: https://www.kaggle.com/c/painter-by-numbers
+- WikiArt:
+  Download from: https://www.kaggle.com/c/painter-by-numbers
+  
+  
+ # Training
+ python Train_end_to_end.py --contentPath MSCOCO_PATH --stylePath WIKIART_PATH --outf OUTPUT_DIR
+ 
+ # Testing
+ python TestPhotoReal.py
   
