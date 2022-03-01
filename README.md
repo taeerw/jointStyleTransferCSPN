@@ -1,5 +1,5 @@
 # jointStyleTransferCSPN
-![image](https://github.com/taeerw/jointStyleTransferCSPN/blob/main/images/teaser.pdf)
+![image](https://github.com/taeerw/jointStyleTransferCSPN/blob/main/images/Slide1.PNG)
 
 Repository for the paper "Joint learning of linear transformations and Spatial Propagation Networks for fast image style transfer"
 
