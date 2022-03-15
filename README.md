@@ -20,7 +20,9 @@ The code was tested with Pytorch 1.10.0
 - WikiArt:
   Download from: https://www.kaggle.com/c/painter-by-numbers
   
-  
+# Pre-trained models
+Download pre-trained encoder and decoder models from  https://github.com/sunshineatnoon/LinearStyleTransfer
+
  # Training
  python Train_end_to_end.py --contentPath MSCOCO_PATH --stylePath WIKIART_PATH --outf OUTPUT_DIR
  
