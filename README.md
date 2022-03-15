@@ -10,6 +10,7 @@ This repository is based on https://github.com/sunshineatnoon/LinearStyleTransfe
 # Prerequisites
 - Pytorch
 - torchvision
+
 The code was tested with Pytorch 1.10.0
 
 
