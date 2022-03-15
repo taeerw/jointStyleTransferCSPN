@@ -8,7 +8,7 @@ This repository is based on https://github.com/sunshineatnoon/LinearStyleTransfe
 - Cheng, Xinjing, Peng Wang, and Ruigang Yang. "Learning depth with convolutional spatial propagation network." IEEE transactions on pattern analysis and machine intelligence 42.10 (2019): 2361-2379.‏
 
 # Prerequisites
-- Pytorch
+- Pytorch 1.10.0
 - torchvision
 
 
